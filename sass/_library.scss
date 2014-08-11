@@ -1,0 +1,47 @@
+$max_width: 960px;
+$gutter_width: 20px;
+$wrap_width: 960px + ($gutter_width * 2);
+$col_count: 12;
+$gutter_count: $col_count - 1;
+$total_gutter_width: $gutter_count * $gutter_width;
+
+$col_width: ($max_width - $total_gutter_width) / $col_count;
+
+@mixin columnify($num_cols, $is_last: false) {
+    width: $col_width * $num_cols + $gutter_width * ($num_cols - 1);
+    @if not $is_last {
+        margin-right: $gutter_width;
+    }
+    display: inline-block;
+    vertical-align: top;
+}
+
+@mixin offset($num_cols) {
+    margin-left: ($col_width + $gutter_width) * $num_cols;
+}
+
+@mixin bg-size($size: 100% auto) {
+    -webkit-background-size: $size;
+    -moz-background-size: $size;
+    background-size: $size;
+}
+
+@mixin arrow-up($color:black, $thickness:6px) {
+    content: "";
+    position: absolute;
+    height: 0;
+    width: 0;
+    border-color: transparent transparent $color transparent;
+    border-style: solid;
+    border-width: $thickness;
+}
+
+@mixin arrow-down($color:black, $thickness:6px) {
+    content: "";
+    position: absolute;
+    height: 0;
+    width: 0;
+    border-color: $color transparent transparent transparent;
+    border-style: solid;
+    border-width: $thickness;
+}
