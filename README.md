@@ -1,6 +1,6 @@
-Tabletop-Deathmatch-2014
+Tabletop-Deathmatch-2015
 ========================
 
 Website for TTDM
 
-~ the repo is for cool people only ~
+~ the repo is for weird people only ~
