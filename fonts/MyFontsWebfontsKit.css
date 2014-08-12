@@ -76,22 +76,22 @@
 @import url("//hello.myfonts.net/count/2a777c");
 
   
-@font-face {font-family: 'Sarine-BlackItalic';src: url('webfonts/2A777C_0_0.eot');src: url('webfonts/2A777C_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2A777C_0_0.woff') format('woff'),url('webfonts/2A777C_0_0.ttf') format('truetype');}
+/* @font-face {font-family: 'Sarine-BlackItalic';src: url('webfonts/2A777C_0_0.eot');src: url('webfonts/2A777C_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2A777C_0_0.woff') format('woff'),url('webfonts/2A777C_0_0.ttf') format('truetype');}
  
   
-@font-face {font-family: 'Sarine-Bold';src: url('webfonts/2A777C_1_0.eot');src: url('webfonts/2A777C_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2A777C_1_0.woff') format('woff'),url('webfonts/2A777C_1_0.ttf') format('truetype');}
+@font-face {font-family: 'Sarine-Bold';src: url('webfonts/2A777C_1_0.eot');src: url('webfonts/2A777C_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2A777C_1_0.woff') format('woff'),url('webfonts/2A777C_1_0.ttf') format('truetype');} */
  
   
 @font-face {font-family: 'Sarine-Black';src: url('webfonts/2A777C_2_0.eot');src: url('webfonts/2A777C_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2A777C_2_0.woff') format('woff'),url('webfonts/2A777C_2_0.ttf') format('truetype');}
  
   
-@font-face {font-family: 'Sarine-BoldItalic';src: url('webfonts/2A777C_3_0.eot');src: url('webfonts/2A777C_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2A777C_3_0.woff') format('woff'),url('webfonts/2A777C_3_0.ttf') format('truetype');}
+/* @font-face {font-family: 'Sarine-BoldItalic';src: url('webfonts/2A777C_3_0.eot');src: url('webfonts/2A777C_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2A777C_3_0.woff') format('woff'),url('webfonts/2A777C_3_0.ttf') format('truetype');}
  
   
 @font-face {font-family: 'Sarine-Hairline';src: url('webfonts/2A777C_4_0.eot');src: url('webfonts/2A777C_4_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2A777C_4_0.woff') format('woff'),url('webfonts/2A777C_4_0.ttf') format('truetype');}
  
   
-@font-face {font-family: 'Sarine-HairlineItalic';src: url('webfonts/2A777C_5_0.eot');src: url('webfonts/2A777C_5_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2A777C_5_0.woff') format('woff'),url('webfonts/2A777C_5_0.ttf') format('truetype');}
+@font-face {font-family: 'Sarine-HairlineItalic';src: url('webfonts/2A777C_5_0.eot');src: url('webfonts/2A777C_5_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2A777C_5_0.woff') format('woff'),url('webfonts/2A777C_5_0.ttf') format('truetype');} */
  
   
 @font-face {font-family: 'Sarine-Light';src: url('webfonts/2A777C_6_0.eot');src: url('webfonts/2A777C_6_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2A777C_6_0.woff') format('woff'),url('webfonts/2A777C_6_0.ttf') format('truetype');}
@@ -103,7 +103,7 @@
 @font-face {font-family: 'Sarine-Medium';src: url('webfonts/2A777C_8_0.eot');src: url('webfonts/2A777C_8_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2A777C_8_0.woff') format('woff'),url('webfonts/2A777C_8_0.ttf') format('truetype');}
  
   
-@font-face {font-family: 'Sarine-MediumItalic';src: url('webfonts/2A777C_9_0.eot');src: url('webfonts/2A777C_9_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2A777C_9_0.woff') format('woff'),url('webfonts/2A777C_9_0.ttf') format('truetype');}
+/* @font-face {font-family: 'Sarine-MediumItalic';src: url('webfonts/2A777C_9_0.eot');src: url('webfonts/2A777C_9_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2A777C_9_0.woff') format('woff'),url('webfonts/2A777C_9_0.ttf') format('truetype');}
  
   
 @font-face {font-family: 'Sarine-RegularItalic';src: url('webfonts/2A777C_A_0.eot');src: url('webfonts/2A777C_A_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2A777C_A_0.woff') format('woff'),url('webfonts/2A777C_A_0.ttf') format('truetype');}
@@ -115,5 +115,5 @@
 @font-face {font-family: 'Sarine-Thin';src: url('webfonts/2A777C_C_0.eot');src: url('webfonts/2A777C_C_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2A777C_C_0.woff') format('woff'),url('webfonts/2A777C_C_0.ttf') format('truetype');}
  
   
-@font-face {font-family: 'Sarine-ThinItalic';src: url('webfonts/2A777C_D_0.eot');src: url('webfonts/2A777C_D_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2A777C_D_0.woff') format('woff'),url('webfonts/2A777C_D_0.ttf') format('truetype');}
+@font-face {font-family: 'Sarine-ThinItalic';src: url('webfonts/2A777C_D_0.eot');src: url('webfonts/2A777C_D_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2A777C_D_0.woff') format('woff'),url('webfonts/2A777C_D_0.ttf') format('truetype');} */
  
