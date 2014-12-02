@@ -221,10 +221,27 @@ hr {
     padding-top: 180px;
 }
 
+.intro-judge {
+    font-size: 16px;
+    background-color: #FCF7E5;
+    height: 1350px;
+    text-align: center;
+    position:relative;
+    padding-top: 180px;
+}
+
 .content {
     //background: white;
     padding-top: 40px;
     height: 3400px;
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.photos-judge {
+    padding-top: 40px;
+    height: 100%;
     text-align: center;
     width: 100%;
     margin: 0 auto;
@@ -281,6 +298,22 @@ hr {
     margin: 0 auto;
     background-color: #66EDA3;
     height: 85px;
+}
+
+.backtohome {
+    padding-top: 30px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: none;
+    height: 100%;
+}
+
+.backtohome a:hover {
+    opacity: 0.6;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
 }
 
 .ribbon {
