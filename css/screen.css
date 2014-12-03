@@ -211,7 +211,7 @@ hr {
 .intro-judge {
   font-size: 16px;
   background-color: #FCF7E5;
-  height: 1350px;
+  height: 1950px;
   text-align: center;
   position: relative;
   padding-top: 180px; }
@@ -258,6 +258,13 @@ hr {
   padding-top: 30px;
   padding-bottom: 60px; }
 
+.judge-text {
+  text-align: center;
+  width: 90%;
+  margin: 0 auto;
+  padding-top: 30px;
+  max-height: 90%; }
+
 .credits {
   background-color: #8AFFC2; }
 
@@ -277,6 +284,7 @@ hr {
 
 .backtohome {
   padding-top: 30px;
+  padding-left: 12px;
   margin: 0 auto;
   text-align: center;
   background-color: none;
@@ -337,6 +345,11 @@ hr {
     padding-top: 170px;
     width: 100%; }
 
+  .intro-judge {
+    font-size: 16px;
+    height: 1350px;
+    max-width: 100%; }
+
   .info {
     height: 1350px;
     font-size: 12px;
@@ -366,9 +379,16 @@ hr {
     height: 700px;
     max-width: 100%; }
 
+  .intro-judge {
+    max-width: 100%; }
+
   .content {
     height: 1850px; } }
 @media screen and (min-width: 575px) and (max-width: 792px) {
+  .intro-judge {
+    height: 1500px;
+    max-width: 100%; }
+
   .content {
     height: 1900px; }
 
@@ -380,6 +400,10 @@ hr {
 @media screen and (min-width: 480px) and (max-width: 574px) {
   .intro {
     height: 800px;
+    max-width: 100%; }
+
+  .intro-judge {
+    height: 1850px;
     max-width: 100%; }
 
   .content {

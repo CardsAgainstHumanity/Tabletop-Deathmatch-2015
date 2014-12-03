@@ -224,7 +224,7 @@ hr {
 .intro-judge {
     font-size: 16px;
     background-color: #FCF7E5;
-    height: 1350px;
+    height: 1950px;
     text-align: center;
     position:relative;
     padding-top: 180px;
@@ -280,6 +280,15 @@ hr {
     padding-bottom: 60px;
 }
 
+.judge-text {
+    text-align: center;
+    width: 90%; 
+    margin: 0 auto;
+    padding-top: 30px;
+    max-height: 90%;
+    //padding-bottom: 60px;
+}
+
 .credits {
     background-color: #8AFFC2;
 }
@@ -302,6 +311,7 @@ hr {
 
 .backtohome {
     padding-top: 30px;
+    padding-left: 12px;
     margin: 0 auto;
     text-align: center;
     background-color: none;
@@ -377,6 +387,12 @@ hr {
         width: 100%;
     }
 
+    .intro-judge {
+        font-size: 16px;
+        height: 1350px;
+        max-width: 100%;
+    }
+
     .info {
         height: 1350px;
         font-size: 12px;
@@ -417,6 +433,10 @@ hr {
         max-width: 100%;
     }
 
+    .intro-judge {
+        max-width: 100%;
+    }
+
     .content {
         height: 1850px;
     }
@@ -428,6 +448,11 @@ hr {
         //height: 800px;
         //max-width: 100%;
     //}
+
+    .intro-judge {
+        height: 1500px;
+        max-width: 100%;
+    }
 
 
     .content {
@@ -451,6 +476,10 @@ hr {
         max-width: 100%;
     }
 
+    .intro-judge {
+        height: 1850px;
+        max-width: 100%;
+    }
 
     .content {
         height: 3400px;
